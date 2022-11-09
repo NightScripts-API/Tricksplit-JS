@@ -1,3 +1,3 @@
 # Tricksplit-JS
 **Leaderboard Text** <br>
-```document.getElementById("lbTitle").innerHTML = "a";```
+```document.getElementById("lbTitle").innerHTML = "SampleText";```
