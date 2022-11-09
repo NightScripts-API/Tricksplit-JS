@@ -7,11 +7,15 @@
 # Custom
 **Custom Discord** <br>
 ```
-var discord = "https://discord.gg/join";<br>
-var class = "menu_social__3GZR2";<br>
-document.getElementsByClassName(class)[2].href = discord;```<br>
-**Custom Facebook** <br>
+var discord = "https://discord.gg/join";
+var class = "menu_social__3GZR2";
+document.getElementsByClassName(class)[2].href = discord;
 ```
-var facebook = "https://facebook.com/user";<br>
-var class = "menu_social__3GZR2";<br>
-document.getElementsByClassName(class)[0].href = facebook;```<br>
+
+**Custom Facebook** 
+
+```
+var facebook = "https://facebook.com/user";
+var class = "menu_social__3GZR2";
+document.getElementsByClassName(class)[0].href = facebook;
+```
