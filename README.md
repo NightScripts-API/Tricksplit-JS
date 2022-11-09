@@ -24,7 +24,7 @@ document.getElementsByClassName("servers_Server__5LUNO servers_CRAZY__wnSwN  ser
 ```js
 var discord = "https://discord.gg/join";
 var class = "menu_social__3GZR2";
-document.getElementsByClassName(class)[2].href = discord;
+document.getElementsByClassName("menu_social__3GZR2")[2].href = discord;
 ```
 
 **Custom Facebook** 
@@ -32,5 +32,5 @@ document.getElementsByClassName(class)[2].href = discord;
 ```js
 var facebook = "https://facebook.com/user";
 var class = "menu_social__3GZR2";
-document.getElementsByClassName(class)[0].href = facebook;
+document.getElementsByClassName("menu_social__3GZR2")[0].href = facebook;
 ```
