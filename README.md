@@ -3,7 +3,10 @@
 ```js
 document.getElementById("lbTitle").innerHTML = "SampleText";
 ```
-
+**Basic Coin Text Editor**
+```js
+document.getElementsByClassName("account_coinBox__2a2DI")[0].innerHTML = "999,999";
+```
 
 
 # Click Events
