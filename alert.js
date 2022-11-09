@@ -1,1 +1,3 @@
-alert('JS')
+function x() {
+   alert('a')
+}
