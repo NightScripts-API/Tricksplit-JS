@@ -48,8 +48,6 @@ var _0x37742c=_0x4434;function _0x12a2(){var _0xeddf36=['3743220TUTwen','1575480
 document.getElementsByClassName("ads_longAd__RvIc9")[0].innerHTML = "Blocked Ad - GModule";
 ```
 
-**AD-2 OFFLINE**
-```js
 
 
 
