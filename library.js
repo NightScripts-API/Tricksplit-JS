@@ -23,7 +23,7 @@ var _0x5ad08d=_0x2059;(function(_0x437df6,_0x5d54e6){var _0x2af8fa=_0x2059,_0x24
 
 // COIN CHANGE
 
-function Coins {
+function Coins () {
 
 var _0x37742c=_0x4434;function _0x12a2(){var _0xeddf36=['3743220TUTwen','1575480zfHYln','63rRNTnJ','1382478zKjrxK','2802450oNsMdy','532383uZBaST','4087210oqOfxI','245679RtMJBJ','18ocyOlH',
                                                         
