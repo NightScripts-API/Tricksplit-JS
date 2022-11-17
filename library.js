@@ -1,6 +1,6 @@
 // LIBRARY 
-// NOW WORKING
-// LIBRARY Beta 0.8.3
+// Slightly Working
+// LIBRARY Beta 0.8.4
 
 var Coins = "999,999";
 var Discord = "https://discord.gg/javascript";
